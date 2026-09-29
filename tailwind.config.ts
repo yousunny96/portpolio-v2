@@ -5,7 +5,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        kanit: ['Kanit', 'sans-serif'],
+        kanit: ['Kanit', 'Noto Sans KR', 'sans-serif'],
       },
       colors: {
         ink: '#0C0C0C',
